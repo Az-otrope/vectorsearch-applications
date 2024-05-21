@@ -38,3 +38,4 @@ torch==2.0.1
 tqdm==4.66.1
 transformers
 weaviate-client==4.5.4
+# backports.zoneinfo;python_version<"3.9"
